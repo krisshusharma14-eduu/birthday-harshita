@@ -34,6 +34,14 @@ body{
 }
 
 .container{
+    width:100%;
+    max-width:1200px;
+    margin:auto;
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    justify-content:center;
+    text-align:center;
     padding:30px;
 }
 
